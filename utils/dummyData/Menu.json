@@ -1,0 +1,72 @@
+[
+    {
+        "nameMenu": "Apple",
+        "descriptionMenu": "A sweet and crunchy fruit, rich in fiber and vitamin C.",
+        "priceMenu": 5.99,
+        "item": "678ceb9ea1e53fa4f37a8151",
+        "image": "https://example.com/images/apple.jpg"
+    },
+    {
+        "nameMenu": "Banana",
+        "descriptionMenu": "A tropical fruit packed with potassium and energy-boosting nutrients.",
+        "priceMenu": 3.50,
+        "item": "678ceb9ea1e53fa4f37a8151",
+        "image": "https://example.com/images/banana.jpg"
+    },
+    {
+        "nameMenu": "Orange",
+        "descriptionMenu": "A juicy citrus fruit known for its high vitamin C content.",
+        "priceMenu": 4.75,
+        "item": "678ceb9ea1e53fa4f37a8151",
+        "image": "https://example.com/images/orange.jpg"
+    },
+    {
+        "nameMenu": "Strawberry",
+        "descriptionMenu": "A sweet and tangy berry, rich in antioxidants and vitamin C.",
+        "priceMenu": 7.00,
+        "item": "678ceb9ea1e53fa4f37a8151",
+        "image": "https://example.com/images/strawberry.jpg"
+    },
+    {
+        "nameMenu": "Mango",
+        "descriptionMenu": "A tropical fruit with a rich, sweet flavor and high vitamin A content.",
+        "priceMenu": 8.50,
+        "item": "678ceb9ea1e53fa4f37a8151",
+        "image": "https://example.com/images/mango.jpg"
+    },
+    {
+        "nameMenu": "Pineapple",
+        "descriptionMenu": "A tropical fruit with a sweet and tangy taste, rich in vitamin C and manganese.",
+        "priceMenu": 6.25,
+        "item": "678ceb9ea1e53fa4f37a8151",
+        "image": "https://example.com/images/pineapple.jpg"
+    },
+    {
+        "nameMenu": "Grapes",
+        "descriptionMenu": "Small, sweet fruits that come in various colors and are rich in antioxidants.",
+        "priceMenu": 4.99,
+        "item": "678ceb9ea1e53fa4f37a8151",
+        "image": "https://example.com/images/grapes.jpg"
+    },
+    {
+        "nameMenu": "Watermelon",
+        "descriptionMenu": "A refreshing fruit with high water content, perfect for hot summer days.",
+        "priceMenu": 10.00,
+        "item": "678ceb9ea1e53fa4f37a8151",
+        "image": "https://example.com/images/watermelon.jpg"
+    },
+    {
+        "nameMenu": "Kiwi",
+        "descriptionMenu": "A small fruit with a tangy flavor, rich in vitamin C and fiber.",
+        "priceMenu": 6.75,
+        "item": "678ceb9ea1e53fa4f37a8151",
+        "image": "https://example.com/images/kiwi.jpg"
+    },
+    {
+        "nameMenu": "Peach",
+        "descriptionMenu": "A soft and juicy fruit with a sweet flavor, rich in vitamins A and C.",
+        "priceMenu": 5.50,
+        "item": "678ceb9ea1e53fa4f37a8151",
+        "image": "https://example.com/images/peach.jpg"
+    }
+]
