@@ -139,9 +139,6 @@ The server will now be running at `http://localhost:8000`.
 
 ### 6. Test the API
 Use tools like **Postman** or **cURL** to test the endpoints. For detailed API usage, refer to the [Postman Documentation](https://documenter.getpostman.com/view/39841782/2sAYQamWxQ).
-
-https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExdm9wMDM2aTlvZWV5cWJhbjBrZXA2MjAydnJ4dzRtZXN5d3VsaGszeiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/ZVik7pBtu9dNS/giphy.gif.
-
 ---
 
 ## 🎉 You're All Set!
