@@ -61,11 +61,6 @@ This API supports comprehensive restaurant operations and offers seamless integr
 
 ---
 
-## 📄 Documentation
-For detailed API documentation, check out the [Postman Documentation](https://documenter.getpostman.com/view/39841782/2sAYQamWxQ).
-
----
-
 ## 🚀 Getting Started
 ### Prerequisites
 - Node.js (v16+)
